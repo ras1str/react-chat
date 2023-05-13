@@ -7,10 +7,11 @@
 }
 
 .wrapper{
-    background-color: #FFFF ;
-    display:grid;
+    background-color: #ffffff ;
+    display:flex;
     width: 800px;
     flex-direction: column;
+    
 }
 .messages{
 
@@ -19,3 +20,4 @@
     margin-left: 20px;
 
 }
+
